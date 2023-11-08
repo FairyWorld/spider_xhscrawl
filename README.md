@@ -54,7 +54,7 @@
 
 ## changelog
 
-[changelog](https://github.com/wang-zhiyang/xhscrawl/blob/main/changelog.md) 
+[changelog](https://github.com/submato/xhscrawl/blob/main/changelog.md) 
 
 
 ## how to run demo
@@ -68,18 +68,13 @@
 
 ## 常见Q&A
 
-[常见Q&A](https://github.com/wang-zhiyang/xhscrawl/blob/main/service/service_index/feature_notice.md) 
+[常见Q&A](https://github.com/submato/xhscrawl/blob/main/service/service_index/feature_notice.md) 
 
 ## 作者提供的服务
 
 ### 1.提供app逆向成品数据
 
 提供app爬虫的成品数据
-- 交付方式：txt、excel、csv等等格式中的一种
-- 价格：根据难度 x元/千条
-
-### 4.提供web成品数据
-如果你看不懂代码，或者是不想写之间的逻辑，作者提供此数据服务。帮你直接爬取到需要的数据。
 - 交付方式：txt、excel、csv等等格式中的一种
 - 价格：根据难度 x元/千条
 
@@ -99,16 +94,10 @@
 - 有详细的运行文档，接口文档，每一个参数都有说明。
 - 保证能够跑起来，因为代码原因跑不起来直接退款，都是做技术的，不玩那些虚。
 
-只要价格 < 自己破解的时间*工资 就赚
-
-两三天解决不了的bug不如花钱让别人一下子解决
-
-上海大学生家教都要3-400一小时了，我相信付费可以不止节省你一个小时
-
 | 名称    | 
 | ------------------------------------ |
-|[发送评论](https://github.com/wang-zhiyang/xhscrawl/blob/main/service/service_index/comment.md)                   |
-| [获取笔记详情](https://github.com/wang-zhiyang/xhscrawl/blob/main/service/service_index/note_detail.md)    |
+|[发送评论](https://github.com/submato/xhscrawl/blob/main/service/service_index/comment.md)                   |
+| [获取笔记详情](https://github.com/submato/xhscrawl/blob/main/service/service_index/note_detail.md)    |
 | [笔记搜索](https://github.com/submato/xhscrawl/blob/main/service/service_index/search.md)                  |
 | [获取笔记评论](https://github.com/submato/xhscrawl/blob/main/service/service_index/get_comment.md)                  |
 | [收藏笔记](https://github.com/submato/xhscrawl/blob/main/service/service_index/collect_note.md)                |
@@ -122,7 +111,7 @@
 | [消息-赞和收藏](https://github.com/submato/xhscrawl/blob/main/service/service_index/likes.md)  |
 | [消息-新增关注列表](https://github.com/submato/xhscrawl/blob/main/service/service_index/connections.md)  |
 | [未读通知数](https://github.com/submato/xhscrawl/blob/main/service/service_index/unread.md)  |
-| 若没有你需要的接口,联系作者有偿开发，[提需前必看](https://github.com/wang-zhiyang/xhscrawl/blob/main/service/service_index/feature_notice.md) <br>QQ：1162466610(回复很快的,但禁止白嫖！！！)                |
+| 若没有你需要的接口,联系作者有偿开发，[提需前必看](https://github.com/submato/xhscrawl/blob/main/service/service_index/feature_notice.md) <br>QQ：1162466610(回复很快的,但禁止白嫖！！！)                |
 
 **付费后你将获得**
   - 源文件(包含3个文件，v01.00重构后，不依赖本项目):授人以渔，之后想怎么用就怎么用。
@@ -131,7 +120,7 @@
     - md文件：how to run的保姆教程，包括如何获取cookie、笔记id是什么等
     - 添加作者微信，加入讨论群
 ## 作者联系方式 || 寻求帮助 || 合作
-联系作者前请务必查阅[常见Q&A](https://github.com/wang-zhiyang/xhscrawl/blob/main/service/service_index/feature_notice.md)
+联系作者前请务必查阅[常见Q&A](https://github.com/submato/xhscrawl/blob/main/service/service_index/feature_notice.md)
 。能回答你90%的问题，节省自己、作者的宝贵时间。
 
 QQ ：1162466610 (回复很快，但禁止白嫖！！！)
@@ -140,9 +129,3 @@ QQ ：1162466610 (回复很快，但禁止白嫖！！！)
 ## Star History
 
 [![Star History Chart](https://api.star-history.com/svg?repos=submato/xhscrawl&type=Date)](https://star-history.com/#submato/xhscrawl&Date)
-
-
-## 请作者喝咖啡吧
-如果作者的仓库对你有帮助的话，请作者喝杯咖啡支持一下作者吧
-
-<img title="" src="https://github.com/wang-zhiyang/xhscrawl/assets/55040284/89bb6534-5e74-44bb-b728-dc771fe9f2b1" alt="WechatIMG106" width="300">
